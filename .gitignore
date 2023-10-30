@@ -21,3 +21,7 @@ typechain-types
 cache
 artifacts
 
+# IDE Files
+.idea
+.vscode
+
